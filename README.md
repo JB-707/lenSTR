@@ -29,6 +29,7 @@ NOTE: for linux/apple users, you MUST add lib to the beginning of your archive f
 
 
 DISCLAIMER:
+
 This project is NOT 100% done. There probably still are some bugs/vulnerabilities in this function, and probably shouldn't be used in it's base state for a project
 This is just a simple clone of the function I made by reading it's description, NOT a full replacement
 If you encounter any bugs, vulnerabilities, or simply want to share your version of this function, feel free to fork it, or contact me.
